@@ -6,7 +6,25 @@ I'm a Computer Science engineering graduate with a passion for Data Science and 
 - 🌱 Learning: OpenAI, SentenceTransformer, SQLite3, MongoDB, Cassandra, Ultralytics, YOLO, Pytorch
 - 👯 Looking to collaborate on: NLP, Data Visualization and recommendation projects
 - ⚙️  Key Tools: PyTorch, Tensorflow-Keras, Flask, FastAPI, Pandas, NumPy, MatPlotlib, scikit-learn, Streamlit, Docker
-- 📫 How to reach me: [Email](mailto:sjshiva8287@gmail.com) [LinkedIn](https://www.linkedin.com/) [GitHub](https://github.com/)
+- 📫 How to reach me: <p align="center" dir="auto">
+    
+  <a href="mailto:sjshiva8287@gmail.com" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  
+  <a href="https://twitter.com/sjshiva8287" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/sparsh-jain-346249236/" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
@@ -21,4 +39,4 @@ I'm a Computer Science engineering graduate with a passion for Data Science and 
 
 ## 📈 My GitHub Stats
 
-![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparshjain&show_icons=true&theme=tokyonight)
+![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparshj8287&show_icons=true&theme=tokyonight)
