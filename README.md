@@ -1,10 +1,10 @@
 # Hi, I'm Sparsh Jain 👋
 
-I'm a Computer Science engineering graduate with a passion for Data Science and developing innovative projects. I'm a dedicated, detail-oriented and enthusiastic individual, ready to take on challenging roles in the field of software and Data Science. I am also an avid open-source contributor, constantly seeking knowledge sharing opportunities in the tech community.
+I'm a Computer Science engineering undergraduate with a passion for Data Science and developing innovative projects. I'm a dedicated, detail-oriented and enthusiastic individual, ready to take on challenging roles in the field of software and Data Science. I am also an avid open-source contributor, constantly seeking knowledge sharing opportunities in the tech community.
 
 - 💼  Current position: Data Science Intern at Culinda
-- 🌱 Learning: OpenAI, SentenceTransformer, SQLite3, MongoDB, Cassandra, Ultralytics, YOLO, Pytorch
-- 👯 Looking to collaborate on: NLP, Data Visualization and recommendation projects
+- 🌱 Learning: Machine Learning, LLM's, Pytorch, Tensorflow
+- 👯 Looking to collaborate on: NLP, 
 - ⚙️  Key Tools: PyTorch, Tensorflow-Keras, Flask, FastAPI, Pandas, NumPy, MatPlotlib, scikit-learn, Streamlit, Docker
 - 📫 How to reach me: <p align="center" dir="auto">
     
