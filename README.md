@@ -39,6 +39,8 @@ I'm a Computer Science engineering undergraduate with a passion for Data Science
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
+[![Sparsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sparshj8287&bg_color=060505&color=c733bd&line=dbccda&point=403d3d&area=true&hide_border=true)](https://github.com/Sparshj8287)
+
 ## 📈 My GitHub Stats
 
 ![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparshj8287&show_icons=true&theme=tokyonight)
