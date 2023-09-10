@@ -4,7 +4,7 @@
 
 I'm a Computer Science engineering undergraduate with a passion for Data Science and developing innovative projects. I'm a dedicated, detail-oriented and enthusiastic individual, ready to take on challenging roles in the field of software and Data Science. I am also an avid open-source contributor, constantly seeking knowledge sharing opportunities in the tech community.
 
-- 💼  Current position: Data Science Intern at Culinda
+- 💼  Current position: Research Intern at AI4Bharat, IIT Madras
 - 🌱 Learning: Machine Learning, LLM's, Pytorch, Tensorflow
 - 👯 Open to Collaboration: Seeking partnerships in the realm of Natural Language Processing (NLP), ongoing project collaborations, and participation in hackathon initiatives. Let's join forces to innovate and create impactful solutions together. Feel free to reach out and explore the possibilities of collaboration!
 - ⚙️  Key Tools: PyTorch, Tensorflow-Keras, Flask, FastAPI, Pandas, NumPy, MatPlotlib, scikit-learn, Streamlit, Docker
