@@ -16,7 +16,7 @@ I'm a Research Associate at AI4Bharat with a passion for Data Science and develo
     />
   </a>
   
-  <a href="https://twitter.com/sjshiva8287" rel="nofollow">
+  <a href="https://x.com/Sparshj8287" rel="nofollow">
     <img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
     />
