@@ -1,8 +1,8 @@
-# Hi, I'm Sparsh Jain 👋
+# नमस्ते (Hi), I'm Sparsh Jain 👋
 
 <img align="right" alt="GIF" src="https://github.com/Sparshj8287/Sparshj8287/blob/main/code.gif?raw=true" width="500" height="320" />
 
-I'm a Computer Science engineering undergraduate with a passion for Data Science and developing innovative projects. I'm a dedicated, detail-oriented and enthusiastic individual, ready to take on challenging roles in the field of software and Data Science. I am also an avid open-source contributor, constantly seeking knowledge sharing opportunities in the tech community.
+I'm a Research Associate at AI4Bharat with a passion for Data Science and developing innovative projects. I'm a dedicated, detail-oriented and enthusiastic individual, ready to take on challenging roles in the field of software and Data Science. I am also an avid open-source contributor, constantly seeking knowledge sharing opportunities in the tech community.
 
 - 💼  Current position: Research Intern at AI4Bharat, IIT Madras
 - 🌱 Learning: Machine Learning, LLM's, Pytorch, Tensorflow
